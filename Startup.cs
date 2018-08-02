@@ -27,7 +27,7 @@ namespace SimpleWebSite
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("QA1 Is live! World!");
+                await context.Response.WriteAsync("QA1 Is live! I'm a feature branch! World!");
             });
         }
     }
