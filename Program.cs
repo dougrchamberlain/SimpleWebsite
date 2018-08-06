@@ -23,3 +23,4 @@ namespace SimpleWebSite
                 .Build();
     }
 }
+// foo other way
